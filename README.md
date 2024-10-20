@@ -3,8 +3,11 @@
 <table>
 <tr>
 <td>
+
 - 👋 Hi, I’m @Mallikarjuna00G
+
 - 👀 I’m interested in learning several programming languages be it target to any stream.
+
 - Currently interested in `Java` and learning too.
 
 I'm a self-taught passionate (beginner-level) developer from India 🇮🇳
