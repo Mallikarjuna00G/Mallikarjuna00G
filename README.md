@@ -30,13 +30,6 @@ I'm a self-taught passionate (beginner-level) developer from India 🇮🇳
 - <img height="20" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn: [Mallikarjuna00G](https://www.linkedin.com/in/mallikarjuna00g/)
 - <img height="20" alt="freeCodeCamp" src="./images/freeCodeCamp.png"> FreeCodeCamp: [Mallikarjuna00G](https://www.freecodecamp.org/Mallikarjuna00G)
 
-## Github stats
-
-|||
-|---|---|
-| <a href="https://github.com/Mallikarjuna00G/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna00G&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mallikarjuna00G's github stats" /></a> | <a href="https://github.com/Mallikarjuna00G/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna00G&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-
 ## Programming languages and tools
 
 
