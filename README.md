@@ -37,39 +37,39 @@ Programming languages and tools I went through atleast once and still have atlea
 
 **Note:** In almost all of them I would rate myself 4 or 5 out of 10.
 
-|Icon|Name|Comments|
-|---|---|---|
-|<img height="20" alt="MS VS code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">|MS VS code||
-|<img height="20" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">|Bash||
-|<img height="20" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">|Git||
-|<img height="20" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">|C||
-|<img height="20" alt="Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">|C++||
-|<img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">|Python||
-|<img height="20" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">|Markdown||
-|<img height="20" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">|HTML5||
-|<img height="20" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">|CSS3||
-|<img height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">|JavaScript||
-|<img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">|Java||
-|<img height="20" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">|Kotlin||
-|<img height="20" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">|Jupyter||
-|<img height="20" alt="vectorInformaticGMBH" src="./images/vectorInformaticGMBH.png">|Vector Canalyzer||
-|<img height="20" alt="vectorInformaticGMBH" src="./images/vectorInformaticGMBH.png">|CAPL (Communication Access Programming Language)||
-|<img height="20" alt="vectorInformaticGMBH" src="./images/vectorInformaticGMBH.png">|VectorCAST||
-|<img height="20" alt="MISRA" src="https://misra.org.uk/app/themes/designreligion/assets/img/logo.svg">|MISRA C||
-|<img height="20" alt="CAN bus" src="./images/CAN_Logo.png">|CAN (Controlled Area Network)||
-|<img height="20" alt="CodeBeamer lizard" src="./images/codebeamer.png">|Codebeamer||
-|<img height="20" alt="Enterprise Architect" src="./images/EnterpriseArchitect.png">|Enterprise Architect||
-|<img height="20" alt="LDRA-logo" src="https://ldra.com/wp-content/themes/katatomic/images/ldra-floating-logo.png">|LDRA||
-|<img height="20" alt="matlab" src="https://meldmerge.org/images/meld.svg">|Meld|
-|<img height="20" alt="Teraterm" src="https://teratermproject.github.io/images/teraterm.png">|Teraterm||
-|<img height="20" alt="Bat script" src="./images/batScript.png">|Windows Batch Scripting||
-|<img height="20" alt="Powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">|Powershell||
-|<img height="20" alt="matlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">|Matlab||
-|<img height="20" alt="cmake" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg">|Cmake||
-|<img height="20" alt="Embedded C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg">|Embedded C||
-|<img height="20" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">|Github||
-|<img height="20" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">|JSON||
-|<img height="20" alt="VIM editor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">|VIM editor||
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="MS VS code" alt="MS VS code" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="bash" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="git" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cpp" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="python" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" alt="markdown" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="java" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" height="40">&nbsp;
+  <img src="./images/vectorInformaticGMBH.png" title="Vector Canalyzer" alt="Vector Canalyzer" height="40">&nbsp;
+  <img src="./images/vectorInformaticGMBH.png" title="CAPL (Communication Access Programming Language)" alt="CAPL" height="40">&nbsp;
+  <img src="./images/vectorInformaticGMBH.png" title="VectorCAST" alt="VectorCAST" height="40">&nbsp;
+  <img src="https://misra.org.uk/app/themes/designreligion/assets/img/logo.svg" title="MISRA C" alt="MISRA C" height="40">&nbsp;
+  <img src="./images/CAN_Logo.png" title="CAN (Controlled Area Network)" alt="CAN bus" height="40">&nbsp;
+  <img src="./images/codebeamer.png" title="Codebeamer" alt="Codebeamer" height="40">&nbsp;
+  <img src="./images/EnterpriseArchitect.png" title="Enterprise Architect" alt="Enterprise Architect" height="40">&nbsp;
+  <img src="https://ldra.com/wp-content/themes/katatomic/images/ldra-floating-logo.png" title="LDRA" alt="LDRA" height="40">&nbsp;
+  <img src="https://meldmerge.org/images/meld.svg" title="Meld" alt="Meld" height="40">&nbsp;
+  <img src="https://teratermproject.github.io/images/teraterm.png" title="Teraterm" alt="Teraterm" height="40">&nbsp;
+  <img src="./images/batScript.png" title="Windows Batch Scripting" alt="Bat script" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" title="Cmake" alt="cmake" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="Github" alt="Github" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="JSON" alt="JSON" height="40">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="VIM editor" alt="VIM editor" height="40">&nbsp;
+</p>
 
 
 ### References:
